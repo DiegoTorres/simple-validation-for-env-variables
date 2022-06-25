@@ -1,0 +1,25 @@
+{
+  "name": "@diegoti/simple-validation-for-env-variables",
+  "version": "1.0.0",
+  "description": "simple-validation-for-env-variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoTorres/simple-validation-for-env-variables.git"
+  },
+  "keywords": [
+    "simple",
+    "validation",
+    "env",
+    "variables"
+  ],
+  "author": " <diegotorres.rj@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoTorres/simple-validation-for-env-variables/issues"
+  },
+  "homepage": "https://github.com/DiegoTorres/simple-validation-for-env-variables#readme"
+}
